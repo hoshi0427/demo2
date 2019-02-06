@@ -31,5 +31,6 @@ public class Hero {
 		System.out.println("test");
 		System.out.println("git連携の練習です");
 		System.out.println("test4");
+		System.out.println("test5");
 	}
 }
