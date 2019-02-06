@@ -30,5 +30,6 @@ public class Hero {
 	public void attack() {
 		System.out.println("test");
 		System.out.println("git連携の練習です");
+		System.out.println("test4");
 	}
 }
