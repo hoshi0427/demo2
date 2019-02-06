@@ -29,5 +29,6 @@ public class Hero {
 
 	public void attack() {
 		System.out.println("test");
+		System.out.println("test");
 	}
 }
